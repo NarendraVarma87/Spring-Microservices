@@ -24,3 +24,4 @@ For service discovery and management, Eureka Server is utilized, allowing each s
 <li>Spring WebFlux and WebClient for reactive programming.</li>
 <li>Maven for project management and build.</li>
 </ul>
+
